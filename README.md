@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Url:
 
-[https://preguntass.netlify.app/](https://preguntass.netlify.app/dashboard)
+[https://preguntass.netlify.app/dashboard](https://preguntass.netlify.app/dashboard)
