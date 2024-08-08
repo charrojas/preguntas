@@ -1,4 +1,4 @@
-# Poryecto de preguntas
+# Pyecto de preguntas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
 
@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Url:
 
-[[https://preguntass.netlify.app/dashboard](https://preguntass.netlify.app/dashboard)](https://preguntass.netlify.app/dashboard)
+https://preguntass.netlify.app/dashboard
